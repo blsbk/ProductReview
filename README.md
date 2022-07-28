@@ -14,10 +14,11 @@ Web crawling of 4 product types: skincare, cleansing, eye makeup, men’s cosmet
 - 1,000 reviews for each product type
 - 4,000 reviews in total
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/101795603/180955591-ad068b59-c591-4258-9f6c-eb7aca3da394.png">
+(You can download the data file in the attachments)
 
 # Analysis Results
 * Noun Frequency Analysis
-In order to retrieve nouns Korean Natural Language Processing (KoNLP) was done and prepared data for further analysis. You can refer to the codes in "빈도분석.R" file. Frequency analysis for each product group was saved to csv files. 
+In order to retrieve nouns Korean Natural Language Processing (KoNLP) was done and prepared data for further analysis. You can refer to the codes in "단어 빈도 분석.R" file. Frequency analysis for each product group was saved to csv files. 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/101795603/181478758-87cd5660-dba7-4872-bae7-408e0fd2d548.png"> <img width="264" alt="image" src="https://user-images.githubusercontent.com/101795603/181476724-f24bbd0c-207a-4fd2-b105-7133bf44d75b.png"> <img width="260" alt="image" src="https://user-images.githubusercontent.com/101795603/181476746-311910d1-416a-412d-bfe5-84182a4c355e.png"> <img width="265" alt="image" src="https://user-images.githubusercontent.com/101795603/181476772-ef1f1c3b-59fc-4abe-977f-3043cc24d7e8.png">
 
 * Social Network Analysis
